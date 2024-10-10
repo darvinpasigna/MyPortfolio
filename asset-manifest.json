@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.664c6db5.css",
+    "main.js": "/MyPortfolio/static/js/main.bcc1c037.js",
+    "static/js/453.235e154e.chunk.js": "/MyPortfolio/static/js/453.235e154e.chunk.js",
+    "static/media/Web1.png": "/MyPortfolio/static/media/Web1.2b48800de6eea6f09d51.png",
+    "static/media/MP1.png": "/MyPortfolio/static/media/MP1.be15b4544a42cf88a26a.png",
+    "static/media/web2.png": "/MyPortfolio/static/media/web2.7b6cf37c08f4dc511626.png",
+    "static/media/projectPortfolio.png": "/MyPortfolio/static/media/projectPortfolio.95f928796712353cd9fb.png",
+    "static/media/weblogo-removebg-preview.png": "/MyPortfolio/static/media/weblogo-removebg-preview.65e08278a067e12e694e.png",
+    "static/media/certOfGrad.jpg": "/MyPortfolio/static/media/certOfGrad.a846b8f162934aea6d8b.jpg",
+    "static/media/diploma.jpg": "/MyPortfolio/static/media/diploma.e4457d0b6d0c6f962041.jpg",
+    "static/media/premid.jpg": "/MyPortfolio/static/media/premid.cc3fdf75bfb6a849f610.jpg",
+    "static/media/midterm.jpg": "/MyPortfolio/static/media/midterm.03255c067d50a16cb3bd.jpg",
+    "static/media/prefinal.jpg": "/MyPortfolio/static/media/prefinal.ac92fd4e2e928c0ea3bd.jpg",
+    "static/media/final.jpg": "/MyPortfolio/static/media/final.bfccda8153b8f8b0c6a5.jpg",
+    "static/media/certOfEmplomnt.jpg": "/MyPortfolio/static/media/certOfEmplomnt.b43238ce980bd1337ea1.jpg",
+    "static/media/ojt.jpg": "/MyPortfolio/static/media/ojt.b86ed5b33274fa84b09b.jpg",
+    "static/media/avatar.jpg": "/MyPortfolio/static/media/avatar.47ec7252bdfd24ad8239.jpg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.664c6db5.css.map": "/MyPortfolio/static/css/main.664c6db5.css.map",
+    "main.bcc1c037.js.map": "/MyPortfolio/static/js/main.bcc1c037.js.map",
+    "453.235e154e.chunk.js.map": "/MyPortfolio/static/js/453.235e154e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664c6db5.css",
+    "static/js/main.bcc1c037.js"
+  ]
+}
